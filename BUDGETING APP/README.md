@@ -1,4 +1,4 @@
-# Budget-App-JavaScript
+# Budgeting-App-JavaScript
 
 Budgeting app made with vanilla JavaScript, HTML and CSS only.
 
